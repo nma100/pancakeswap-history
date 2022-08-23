@@ -3,8 +3,8 @@ This displays a user's transaction history on the DEX Pancakeswap.
 
 User's wallet address is obtained with “UNS Domain Resolution API”.
 
-* Video demo : https://youtu.be/K8NwVacObjM
-* Live site : 
+* Video demo : https://youtu.be/es075vEYO4w
+* Live site : https://pancakeswap-history.vercel.app
 
 ## Contact information
 
