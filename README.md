@@ -1,5 +1,5 @@
 # Pancakeswap History
-This displays a user's transaction history on the DEX Pancakeswap.
+This applicaton displays users transaction history on Pancakeswap DEX.
 
 User's wallet address is obtained with “UNS Domain Resolution API”.
 
